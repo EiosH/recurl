@@ -1,4 +1,4 @@
-import { atom } from "../src/recurl";
+import { atom } from "../src";
 
 const textState = atom("hello");
 

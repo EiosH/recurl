@@ -1,5 +1,5 @@
 import React from "react";
-import { useRecurlState } from "../src/recurl";
+import { useRecurlState } from "../src";
 
 import { textState } from "./atom";
 
